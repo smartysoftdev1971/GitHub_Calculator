@@ -5,7 +5,8 @@ using namespace std;
 // Function to display calculator information
 void displayInfo()
 {
-    cout << "\nCalculator with Addition Feature" << endl;
+    cout << "\nSimple Calculator Application" << endl;
+    cout << "Supports Addition, Subtraction, Multiplication and Division" << endl;
     cout << "Developed using C++ and Git" << endl;
 }
 
